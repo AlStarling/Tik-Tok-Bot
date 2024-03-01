@@ -31,8 +31,9 @@ Download from the official website [Chromium](https://download-chromium.appspot.
 You will also need to install [Node.js](https://nodejs.org/en) if it is not already installed
 
 </li>
-<li>Unzip
-`chrome-win.zip` to the directory where the app.js script is located
+<li>
+   
+Unzip `chrome-win.zip` to the directory where the app.js script is located
 </li>
 <li>
 
