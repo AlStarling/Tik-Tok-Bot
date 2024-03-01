@@ -1,0 +1,17 @@
+{
+  "name": "zefoy-bot",
+  "version": "1.0.0",
+  "description": "Мое Node.js приложение",
+  "main": "app.js",
+  "bin": {
+    "my-script": "app.js"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.0",
+    "puppeteer": "^20.9.0",
+    "tesseract.js": "^4.1.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
