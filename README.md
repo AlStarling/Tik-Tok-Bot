@@ -42,7 +42,7 @@ Open a terminal or editor and write `npm install`
 <li>
 
 After the necessary modules are loaded, you can launch the bot using the terminal and the `node app.js` command
-or click on the executable file start.bat</li>
+or click on the executable file `start.bat`</li>
 </ul>
 <h2>From the author 🖋</h2>
 <p>The bot script was written exclusively for natural science and educational purposes.</p>
