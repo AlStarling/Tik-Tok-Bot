@@ -33,7 +33,7 @@ You will also need to install [Node.js](https://nodejs.org/en) if it is not alre
 </li>
 <li>
    
-Unzip `chrome-win.zip` to the directory where the app.js script is located
+Unzip `chrome-win.zip` to the directory where the `app.js` script is located
 </li>
 <li>
 
